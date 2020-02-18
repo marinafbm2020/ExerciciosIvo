@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd3ddc2e-49b6-414d-af3f-72eb5a39c83e" name="Default Changelist" comment="" />
+    <list default="true" id="dd3ddc2e-49b6-414d-af3f-72eb5a39c83e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XxjKqTzFOU6qXF1NW6uFEul3m3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Exercicio02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -61,6 +69,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="879" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1581995753815" />
+    <state x="531" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582045323730">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1582045323730" />
     <state width="527" height="169" key="GridCell.Tab.0.bottom" timestamp="1581997662896">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -77,5 +89,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="527" height="169" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581997662896" />
+    <state x="702" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1582045243959">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="702" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582045243959" />
   </component>
 </project>

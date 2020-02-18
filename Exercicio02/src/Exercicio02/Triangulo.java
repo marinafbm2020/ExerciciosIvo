@@ -5,19 +5,17 @@ public class Triangulo {
     private double altura;
     private double area;
 
-    public Triangulo(double base, double altura, double area) {
+    public Triangulo(double base, double altura) {
         this.base = base;
         this.altura = altura;
-        this.area = area;
+
     }
 
-    public Triangulo(double i, int i1) {
-    }
 
 
     public void area(){
        this.area = (this.base*this.altura) /2;
-
+        System.out.println(this.area);
     }
 
     public double getBase() {
