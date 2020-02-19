@@ -8,10 +8,7 @@ public class Triangulo {
     public Triangulo(double base, double altura) {
         this.base = base;
         this.altura = altura;
-
     }
-
-
 
     public void area(){
        this.area = (this.base*this.altura) /2;
